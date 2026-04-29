@@ -1,3 +1,3 @@
 # LinuxServerAdmin
 ## File System Strucutre
-### Device Administration
+## Device Administration
